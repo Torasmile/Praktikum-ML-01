@@ -1,5 +1,5 @@
 # Praktikum Machine Learning
-</pre> 
+<pre> 
       Nama : Zahra Calista Salsabila
       Kelas : SD01-B
       NIM : 2211110041
